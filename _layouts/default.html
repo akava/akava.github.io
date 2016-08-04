@@ -3,18 +3,41 @@
 
   {% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
 
-    <div class="page-content">
-      <div class="wrapper">
+<div class="container">
+
+{% include header.html %}
+
+<div id="content" class="row">
+    <div class="col-md-8 col-md-offset-1">
         {{ content }}
-      </div>
     </div>
+    <div class="col-md-3 featured-entries">
+        <h4>Featured</h4>
+		{% for post in site.posts %}
+          {% if post.featured %}
+          <p><a class="page-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+          {% endif %}
+        {% endfor %}
+    </div>
+</div>
 
-    {% include footer.html %}
+{% include footer.html %}
+</div>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39452572-1']);
+    _gaq.push(['_trackPageview']);
 
-  </body>
-
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+</body>
 </html>

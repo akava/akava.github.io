@@ -2,22 +2,36 @@
 layout: default
 ---
 
-<div class="home">
+<div>
+{% for post in site.posts %}
+    <div class="entry">
+        <h3>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            {% if post.featured  %}<img class="blue-star" src="{{ site.baseurl }}/img/blue-star-icon.png" title="featured" />{% endif %}
+        </h3>
+        <p class="entry-meta">posted on: {{ post.date|date: "%b %-d, %Y" }}</p>
+        <div>
+			{% if post.content contains site.excerpt_separator %}
+				{{ post.excerpt }}
+				<p><a href="{{ post.url | prepend: site.baseurl }}">Read more &rarr;</a></p>
+			{% else %}
+				{{ post.content }}
+			{% endif %}
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+            <p class="entry-meta"><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a> </p>
+        </div>
+    </div>
+    <hr/>
+{% endfor %}
 </div>
+
+<script type="text/javascript">
+var disqus_shortname = 'kavaleu-ru'; // required: replace example with your forum shortname
+
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script> 

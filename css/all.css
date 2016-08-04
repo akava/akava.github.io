@@ -1,0 +1,22 @@
+#header > div { margin-top: 30px; }
+#nav-menu {
+    margin-top: 45px!important;
+    font-size: .9em;
+}
+img#face {
+    width: 73px;
+    height: 63px
+}
+.blue-star {padding-bottom: 5px;}
+
+.featured-entries { font-size: .9em; }
+
+#content {margin-top: 30px; }
+#content blockquote { font-size: 1em; }
+
+.entry { padding-top: 20px;}
+.entry-meta {
+    font-size: .8em;
+    text-transform: uppercase;
+}
+.entry-meta .badge {font-size: .8em;}
