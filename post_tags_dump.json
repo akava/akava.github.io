@@ -1,0 +1,172 @@
+[{
+		"tag_name" : "test",
+		"tag_slug" : "test",
+		"post_id" : 3,
+		"post_title" : "Английский для детей"
+	}, {
+		"tag_name" : "stratoplan",
+		"tag_slug" : "stratoplan",
+		"post_id" : 12,
+		"post_title" : "Инструменты управления. Стратоплан, 30.11. Обзор"
+	}, {
+		"tag_name" : "stratoplan",
+		"tag_slug" : "stratoplan",
+		"post_id" : 13,
+		"post_title" : "Подробно про инструменты, которые буду использовать"
+	}, {
+		"tag_name" : "stratoplan",
+		"tag_slug" : "stratoplan",
+		"post_id" : 14,
+		"post_title" : "Инструменты, которые скорее всего не буду использовать (они тоже хороши)"
+	}, {
+		"tag_name" : "stratoplan",
+		"tag_slug" : "stratoplan",
+		"post_id" : 15,
+		"post_title" : "Секция Вопрос-Ответ"
+	}, {
+		"tag_name" : "stratoplan",
+		"tag_slug" : "stratoplan",
+		"post_id" : 19,
+		"post_title" : "Предложение о сотрудничестве"
+	}, {
+		"tag_name" : "consalting",
+		"tag_slug" : "consalting",
+		"post_id" : 19,
+		"post_title" : "Предложение о сотрудничестве"
+	}, {
+		"tag_name" : "e-learning",
+		"tag_slug" : "e-learning",
+		"post_id" : 20,
+		"post_title" : "Начинается курс «Принципы реактивного программирования»"
+	}, {
+		"tag_name" : "pm",
+		"tag_slug" : "pm",
+		"post_id" : 22,
+		"post_title" : "Гибкое управление продуктом в двух словах (русская версия)"
+	}, {
+		"tag_name" : "agile",
+		"tag_slug" : "agile",
+		"post_id" : 22,
+		"post_title" : "Гибкое управление продуктом в двух словах (русская версия)"
+	}, {
+		"tag_name" : "paypal",
+		"tag_slug" : "paypal",
+		"post_id" : 23,
+		"post_title" : "Получаем оплату через PayPal"
+	}, {
+		"tag_name" : "nginx",
+		"tag_slug" : "nginx",
+		"post_id" : 24,
+		"post_title" : "nginx: избавляемся от localhost:XXXX"
+	}, {
+		"tag_name" : "stratoplan",
+		"tag_slug" : "stratoplan",
+		"post_id" : 25,
+		"post_title" : "Интересный совет от Стратоплана на тему что и как читать"
+	}, {
+		"tag_name" : "python",
+		"tag_slug" : "python",
+		"post_id" : 26,
+		"post_title" : "Google Calendar, как бесплатный СМС гейт"
+	}, {
+		"tag_name" : "django",
+		"tag_slug" : "django",
+		"post_id" : 26,
+		"post_title" : "Google Calendar, как бесплатный СМС гейт"
+	}, {
+		"tag_name" : "loggin",
+		"tag_slug" : "loggin",
+		"post_id" : 27,
+		"post_title" : "Как настроить Network Tracing в .net"
+	}, {
+		"tag_name" : "practice",
+		"tag_slug" : "practice",
+		"post_id" : 27,
+		"post_title" : "Как настроить Network Tracing в .net"
+	}, {
+		"tag_name" : "CC",
+		"tag_slug" : "cc",
+		"post_id" : 28,
+		"post_title" : "EPAM Competency Center"
+	}, {
+		"tag_name" : "consalting",
+		"tag_slug" : "consalting",
+		"post_id" : 28,
+		"post_title" : "EPAM Competency Center"
+	}, {
+		"tag_name" : "AI",
+		"tag_slug" : "ai",
+		"post_id" : 29,
+		"post_title" : "Бот для игры 2048"
+	}, {
+		"tag_name" : "CC",
+		"tag_slug" : "cc",
+		"post_id" : 30,
+		"post_title" : "Итоги года в ЕПАМ"
+	}, {
+		"tag_name" : "results",
+		"tag_slug" : "results",
+		"post_id" : 30,
+		"post_title" : "Итоги года в ЕПАМ"
+	}, {
+		"tag_name" : "windows",
+		"tag_slug" : "windows",
+		"post_id" : 31,
+		"post_title" : "Обзор конференции Microsoft //build/"
+	}, {
+		"tag_name" : "dotnet",
+		"tag_slug" : "dotnet",
+		"post_id" : 31,
+		"post_title" : "Обзор конференции Microsoft //build/"
+	}, {
+		"tag_name" : "microsoft",
+		"tag_slug" : "microsoft",
+		"post_id" : 31,
+		"post_title" : "Обзор конференции Microsoft //build/"
+	}, {
+		"tag_name" : "EPAM",
+		"tag_slug" : "epam",
+		"post_id" : 32,
+		"post_title" : "Понимание роли Архитектора"
+	}, {
+		"tag_name" : "approach",
+		"tag_slug" : "approach",
+		"post_id" : 32,
+		"post_title" : "Понимание роли Архитектора"
+	}, {
+		"tag_name" : "whiteboarding",
+		"tag_slug" : "whiteboarding",
+		"post_id" : 32,
+		"post_title" : "Понимание роли Архитектора"
+	}, {
+		"tag_name" : "architecture",
+		"tag_slug" : "architecture",
+		"post_id" : 32,
+		"post_title" : "Понимание роли Архитектора"
+	}, {
+		"tag_name" : "TOGAF",
+		"tag_slug" : "togaf",
+		"post_id" : 33,
+		"post_title" : "Начался курс Introduction to Enterprise Architecture"
+	}, {
+		"tag_name" : "learning",
+		"tag_slug" : "learning",
+		"post_id" : 33,
+		"post_title" : "Начался курс Introduction to Enterprise Architecture"
+	}, {
+		"tag_name" : "EA",
+		"tag_slug" : "ea",
+		"post_id" : 33,
+		"post_title" : "Начался курс Introduction to Enterprise Architecture"
+	}, {
+		"tag_name" : "architectrue",
+		"tag_slug" : "architectrue",
+		"post_id" : 34,
+		"post_title" : "Как cпроектировать систему"
+	}, {
+		"tag_name" : "approach",
+		"tag_slug" : "approach",
+		"post_id" : 34,
+		"post_title" : "Как cпроектировать систему"
+	}
+]
