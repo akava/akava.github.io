@@ -9,6 +9,13 @@ layout: default
         {{ content }}
     </div>
 
+	<p class="entry-meta">
+		posted in 
+		{% for tag in page.tags %}
+			<a href="{{ tag.slug | prepend: "/tag/" | prepend: site.baseurl }}"><span class="badge">{{ tag.name }}</span></a> 
+		{% endfor %}
+	</p>
+	
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'kavaleu-ru'; // required: replace example with your forum shortname

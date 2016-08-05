@@ -18,7 +18,13 @@ layout: default
 				{{ post.content }}
 			{% endif %}
 
-            <p class="entry-meta"><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a> </p>
+            <p class="entry-meta">
+				<a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a> 
+				- posted in 
+				{% for tag in post.tags %}
+					<a href="{{ tag.slug | prepend: "/tag/" | prepend: site.baseurl }}"><span class="badge">{{ tag.name }}</span></a> 
+				{% endfor %}
+			</p> 
         </div>
     </div>
     <hr/>
