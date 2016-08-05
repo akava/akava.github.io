@@ -17,7 +17,7 @@ tags:
 
 ### Enterprise Architecture
 
-Энтерпрайз архитектура это   "a well-defined practice for conducting enterprise analysis, design, planning, and implementation, using a holistic approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes." [[цитата с википедии](https://en.wikipedia.org/wiki/Enterprise_architecture)] 
+Энтерпрайз архитектура это   "a well-defined practice for <!--more--> conducting enterprise analysis, design, planning, and implementation, using a holistic approach at all times, for the successful development and execution of strategy. Enterprise architecture applies architecture principles and practices to guide organizations through the business, information, process, and technology changes necessary to execute their strategies. These practices utilize the various aspects of an enterprise to identify, motivate, and achieve these changes." [[цитата с википедии](https://en.wikipedia.org/wiki/Enterprise_architecture)] 
 
 То есть практики, позволяющие эффективно управлять изменениями в организации, адаптируя ее под новые задачи и направления бизнеса. Для ознакомления с этими концепциями лучше посмотреть короткое видео (6 минут):
 

@@ -7,7 +7,7 @@ tags:
 ---
 Продолжаем, дайджест ссылок.
 
-Все сейчас движется в стороны вэба, а в вэбе в абсолютных лидерах html+css+js. Похоже, лучше всего в эту сторону двигаться. Отличный сборник того что же нужно рассматривать в первую очередь: [Changing Times For Web Developers – 6 Tips You Should Read To Survive](http://www.amazedsaint.com/2012/11/changing-times-for-web-developers-6.html)
+Все сейчас движется в стороны вэба, а в вэбе в абсолютных лидерах html+css+js. Похоже, лучше всего в эту сторону двигаться. Отличный сборник того что же нужно рассматривать в первую очередь: [Changing Times For Web Developers – 6 Tips You Should Read To Survive](http://www.amazedsaint.com/2012/11/changing-times-for-web-developers-6.html)<!--more-->
 
 
 ### Client-side

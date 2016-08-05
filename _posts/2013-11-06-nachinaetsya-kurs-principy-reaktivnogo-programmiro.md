@@ -13,7 +13,7 @@ tags:
 
 Его обзор на Хабре: [http://habrahabr.ru/post/200338/](http://habrahabr.ru/post/200338/)
 
-Перевод Реактивного Манифеста: [http://habrahabr.ru/post/195562/](http://habrahabr.ru/post/195562/)
+Перевод Реактивного Манифеста: [http://habrahabr.ru/post/195562/](http://habrahabr.ru/post/195562/)<!--more-->
 
 
 Курс читают такие люди как Erik Meijer (один из содателей C#, Linq и rxExtenstions), Martin Odersky (создатель Scala) и Roland Kuhn (я о нем раньше не слышал, но похоже он один из создателей фреймворка Akka).

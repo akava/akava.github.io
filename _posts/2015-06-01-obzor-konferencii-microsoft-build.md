@@ -15,7 +15,7 @@ tags:
 
 <iframe src="https://onedrive.live.com/embed?cid=CEB20B23FFD270C6&resid=ceb20b23ffd270c6%21361&authkey=AGYEdZQzq2aK3hc&em=2" width="700" height="570" frameborder="0" scrolling="no"></iframe>
 
-Моя версия краткого содержания //build/ ниже. Если у вас нет времени читать, то можете [просмотреть презентацию](https://onedrive.live.com/view.aspx?cid=CEB20B23FFD270C6&resid=ceb20b23ffd270c6!361&app=PowerPoint), которую я с Алексеем Горшколепом готовил для одного из наших Техтоков.
+Моя версия краткого содержания //build/ ниже. Если у вас нет времени читать, то можете <!--more--> [просмотреть презентацию](https://onedrive.live.com/view.aspx?cid=CEB20B23FFD270C6&resid=ceb20b23ffd270c6!361&app=PowerPoint), которую я с Алексеем Горшколепом готовил для одного из наших Техтоков.
 
 В этом году прозвучало 220 докладов на разнообразные тематики: от выхода Windows 10, Visual Studio 2015, .Net Core 5, Universall Applicaitons, запуску Android и iPhone приложений под Windows,...  и  до ответа [микросервисам](http://martinfowler.com/articles/microservices.html) в виде [Azure Service Fabric](http://channel9.msdn.com/Events/Build/2015/2-640), [анализа Больших Данных с помощью HDInsight](http://channel9.msdn.com/Events/Build/2015/2-690) и [визуализации их (данных) на Bing Maps ](https://channel9.msdn.com/Events/Build/2015/2-645). Майкрософт будет продолжать развивать облачную платформу Azure. Представила Office 365 как общую платформу, а не набор отдельных приложений. Windows 10, как единую платформу для устройств от Raspberry Pi до HoloLens и Surface Hub.
 

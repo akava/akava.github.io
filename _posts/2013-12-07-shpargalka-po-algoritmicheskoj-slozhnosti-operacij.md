@@ -34,6 +34,8 @@ tags:
 ...
 ...
 
+<!--more-->
+
 ### Практика. Какая разница между O(n^2) и O(n log(n))?
 
 Пару лет назад [я спасал Эндо](https://bitbucket.org/akava/saveendo/wiki/Save%20Endo) (так и не спас, by the way). 
