@@ -6,8 +6,8 @@ featured: True
 tags: 
 - name: CC
   slug: cc
-- name: consalting
-  slug: consalting
+- name: consulting
+  slug: consulting
 ---
 Если вы застряли в своем развитии и не видите перспектив, то это сообщение для вас. В нем я расскажу какой путь я нашел для себя и какие перспективы передо мной открылись.
 

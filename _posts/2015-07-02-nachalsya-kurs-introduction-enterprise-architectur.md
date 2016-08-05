@@ -6,8 +6,8 @@ featured: False
 tags: 
 - name: TOGAF
   slug: togaf
-- name: learning
-  slug: learning
+- name: e-learning
+  slug: e-learning
 - name: EA
   slug: ea
 ---

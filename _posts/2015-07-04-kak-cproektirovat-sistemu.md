@@ -4,8 +4,8 @@ title:  "Как cпроектировать систему"
 date:   2015-07-04 01:59:08 +03:00
 featured: True
 tags: 
-- name: architectrue
-  slug: architectrue
+- name: architecture
+  slug: architecture
 - name: approach
   slug: approach
 ---
