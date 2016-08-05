@@ -3,6 +3,9 @@ layout: post
 title:  "nginx: избавляемся от localhost:XXXX"
 date:   2014-01-05 07:25:48 +03:00
 featured: False
+tags: 
+- name: nginx
+  slug: nginx
 ---
 Наконец-то дошли руки поставить [nginx](http://nginx.org/) на тестовый сервер, что позволило избавиться от всех этих kavaleu-al:1080, kavaleu-al:8500, kavaleu-al:3000. TeamCity-серверу повезло еще больше, он получил свой собственный субдомен teamcity.kavaleu-al вместо "стыдного" kavaleu-al:8080
 

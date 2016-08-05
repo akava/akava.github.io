@@ -3,6 +3,11 @@ layout: post
 title:  "EPAM Competency Center"
 date:   2014-03-15 12:35:59 +03:00
 featured: True
+tags: 
+- name: CC
+  slug: cc
+- name: consalting
+  slug: consalting
 ---
 Если вы застряли в своем развитии и не видите перспектив, то это сообщение для вас. В нем я расскажу какой путь я нашел для себя и какие перспективы передо мной открылись.
 

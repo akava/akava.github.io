@@ -3,6 +3,9 @@ layout: post
 title:  "Инструменты, которые скорее всего не буду использовать (они тоже хороши)"
 date:   2013-12-02 04:20:00 +03:00
 featured: False
+tags: 
+- name: stratoplan
+  slug: stratoplan
 ---
 3 часть сообщения "Инструменты управления. Стратоплан, 30.11. Обзор", начало вы можете [найти здесь](http://kavaleu.ru/blog/12-instrumenty-upravleniya-stratoplan-3011-obzor/). Продолжим.
 

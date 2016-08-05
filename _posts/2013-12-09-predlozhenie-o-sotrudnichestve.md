@@ -3,6 +3,11 @@ layout: post
 title:  "Предложение о сотрудничестве"
 date:   2013-12-09 07:47:31 +03:00
 featured: True
+tags: 
+- name: stratoplan
+  slug: stratoplan
+- name: consalting
+  slug: consalting
 ---
 Если вас интересовало зачем я развел всю эту бурную деятельность в блоге ([1](http://kavaleu.ru/blog/12-instrumenty-upravleniya-stratoplan-3011-obzor/), [2](http://kavaleu.ru/blog/18-shpargalka-po-algoritmicheskoj-slozhnosti-operacij/), [3](http://kavaleu.ru/blog/13-podrobno-pro-instrumenty-kotorye-budu-ispolzovat/)), проводил семинар и грузил людей в личном общении, а главное какая польза от этого всего лично мне, то это сообщение должно прояснить вам мои мотивы. И не только прояснить, но и, надеюсь, побудить вас откликнуться на мое предложение или даже, чем черт не шутит, помочь мне в осуществлении моих планов. А планы у меня не больше не меньше, а "захватить мир"... Заинтриговал? Надеюсь. Поехали.
 

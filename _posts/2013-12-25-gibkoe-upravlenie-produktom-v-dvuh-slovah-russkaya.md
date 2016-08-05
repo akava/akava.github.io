@@ -3,6 +3,11 @@ layout: post
 title:  "Гибкое управление продуктом в двух словах (русская версия)"
 date:   2013-12-25 12:42:00 +03:00
 featured: False
+tags: 
+- name: pm
+  slug: pm
+- name: agile
+  slug: agile
 ---
 Отличный ролик в котором за 15 минут (реальных) на русском рассказывают о принципах гибкого управления продуктом.
 Это перевод на русский язык видео-презентации Хенрика Книберга [Agile Product Ownership in a nutshell](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell). Сделанный [Борисом Вольфсоном](http://habrahabr.ru/users/blv/). Ссылка на оригинальное сообщение на [хабре](http://habrahabr.ru/post/201626/).

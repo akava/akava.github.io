@@ -3,6 +3,9 @@ layout: post
 title:  "Секция Вопрос-Ответ"
 date:   2013-12-02 04:30:00 +03:00
 featured: False
+tags: 
+- name: stratoplan
+  slug: stratoplan
 ---
 4 часть сообщения "Инструменты управления. Стратоплан, 30.11. Обзор", начало вы можете [найти здесь](http://kavaleu.ru/blog/12-instrumenty-upravleniya-stratoplan-3011-obzor/). Продолжим.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Проектирование как процесс решения проблем"
 date:   2013-02-01 02:50:34 +03:00
 featured: False
+tags: 
 ---
 Обнаружил видео с доклада [Гапертона](http://gaperton.livejournal.com/) (Владислава Балина) на Software People "Проектирование как процесс решения проблем". Об этом докладе я [узнал](http://gaperton.livejournal.com/62004.html) почти год назад. Далее Влад выложил [слайды](http://dl.dropbox.com/u/4577096/swp12.pdf).
 

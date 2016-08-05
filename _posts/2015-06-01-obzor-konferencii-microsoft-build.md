@@ -3,6 +3,13 @@ layout: post
 title:  "Обзор конференции Microsoft //build/"
 date:   2015-06-01 02:14:05 +03:00
 featured: True
+tags: 
+- name: windows
+  slug: windows
+- name: dotnet
+  slug: dotnet
+- name: microsoft
+  slug: microsoft
 ---
 Возможно вы знаете про конференцию [MS //build/](http://www.buildwindows.com/) прошедшую в конце апреля в Сан Франциско. Это самое большое событие Майкрософт в году на котором она анонсирует новые продукты, а так же задает направление развития на весь год.
 

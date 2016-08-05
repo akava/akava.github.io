@@ -3,6 +3,7 @@ layout: post
 title:  "Бага в релизе. Анализ"
 date:   2013-02-24 03:38:33 +03:00
 featured: False
+tags: 
 ---
 Это продолжение серии статей о принятии ответственности. Предыдущая статья была [здесь](http://kavaleu.ru/blog/7-baga-v-relize-istoriya/).
 

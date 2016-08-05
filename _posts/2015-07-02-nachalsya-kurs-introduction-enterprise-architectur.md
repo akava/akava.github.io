@@ -3,6 +3,13 @@ layout: post
 title:  "Начался курс Introduction to Enterprise Architecture"
 date:   2015-07-02 10:03:12 +03:00
 featured: False
+tags: 
+- name: TOGAF
+  slug: togaf
+- name: learning
+  slug: learning
+- name: EA
+  slug: ea
 ---
 В понедельник начался курс по Энтерпрайз Архитектуре на open2study [Introduction to Enterprise Architecture](https://www.open2study.com/courses/introduction-to-enterprise-architecture). Я вчера закончил первый модуль этого курса. Очень нравится. Не напряжно. У меня ушло где-то 1.5 часа в 2 приема.
 
