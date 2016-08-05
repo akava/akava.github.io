@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/24-:slug/
 title:  "nginx: избавляемся от localhost:XXXX"
 date:   2014-01-05 07:25:48 +03:00
 featured: False

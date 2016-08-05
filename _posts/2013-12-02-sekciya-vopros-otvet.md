@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/15-:slug/
 title:  "Секция Вопрос-Ответ"
 date:   2013-12-02 04:30:00 +03:00
 featured: False

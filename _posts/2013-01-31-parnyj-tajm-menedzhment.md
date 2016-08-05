@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/5-:slug/
 title:  "Парный тайм менеджмент"
 date:   2013-01-31 04:34:50 +03:00
 featured: False

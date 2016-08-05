@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/28-:slug/
 title:  "EPAM Competency Center"
 date:   2014-03-15 12:35:59 +03:00
 featured: True

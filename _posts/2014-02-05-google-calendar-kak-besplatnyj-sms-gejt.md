@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/26-:slug/
 title:  "Google Calendar, как бесплатный СМС гейт"
 date:   2014-02-05 06:55:42 +03:00
 featured: False

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/27-:slug/
 title:  "Как настроить Network Tracing в .net"
 date:   2014-02-25 03:31:13 +03:00
 featured: False

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/33-:slug/
 title:  "Начался курс Introduction to Enterprise Architecture"
 date:   2015-07-02 10:03:12 +03:00
 featured: False

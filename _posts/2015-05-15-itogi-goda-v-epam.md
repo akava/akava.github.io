@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/30-:slug/
 title:  "Итоги года в ЕПАМ"
 date:   2015-05-15 09:48:38 +03:00
 featured: False

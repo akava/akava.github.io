@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/25-:slug/
 title:  "Интересный совет от Стратоплана на тему что и как читать"
 date:   2014-01-09 09:28:26 +03:00
 featured: False

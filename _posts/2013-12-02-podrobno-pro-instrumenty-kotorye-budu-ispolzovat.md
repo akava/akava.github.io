@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/13-:slug/
 title:  "Подробно про инструменты, которые буду использовать"
 date:   2013-12-02 04:10:00 +03:00
 featured: False

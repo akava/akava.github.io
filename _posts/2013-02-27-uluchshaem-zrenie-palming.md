@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/9-:slug/
 title:  "Улучшаем зрение: пальминг"
 date:   2013-02-27 01:35:07 +03:00
 featured: False

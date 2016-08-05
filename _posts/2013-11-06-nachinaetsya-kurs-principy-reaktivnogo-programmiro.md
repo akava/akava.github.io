@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/20-:slug/
 title:  "Начинается курс «Принципы реактивного программирования»"
 date:   2013-11-06 07:47:31 +03:00
 featured: False

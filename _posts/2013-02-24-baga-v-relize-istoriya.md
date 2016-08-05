@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/7-:slug/
 title:  "Бага в релизе. История"
 date:   2013-02-24 02:40:14 +03:00
 featured: False

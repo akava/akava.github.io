@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/23-:slug/
 title:  "Получаем оплату через PayPal"
 date:   2013-12-25 02:19:27 +03:00
 featured: False

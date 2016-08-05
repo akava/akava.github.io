@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/31-:slug/
 title:  "Обзор конференции Microsoft //build/"
 date:   2015-06-01 02:14:05 +03:00
 featured: True

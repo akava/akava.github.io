@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/22-:slug/
 title:  "Гибкое управление продуктом в двух словах (русская версия)"
 date:   2013-12-25 12:42:00 +03:00
 featured: False

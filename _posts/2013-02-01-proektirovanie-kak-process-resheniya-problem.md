@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/2-:slug/
 title:  "Проектирование как процесс решения проблем"
 date:   2013-02-01 02:50:34 +03:00
 featured: False

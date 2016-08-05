@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/11-:slug/
 title:  "Дайджест ссылок #2"
 date:   2013-05-28 03:31:44 +03:00
 featured: False

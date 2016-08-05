@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/17-:slug/
 title:  "Популярно о научных достижениях"
 date:   2013-12-07 06:47:31 +03:00
 featured: False

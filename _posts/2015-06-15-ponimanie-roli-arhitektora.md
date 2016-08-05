@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/32-:slug/
 title:  "Понимание роли Архитектора"
 date:   2015-06-15 03:55:06 +03:00
 featured: False

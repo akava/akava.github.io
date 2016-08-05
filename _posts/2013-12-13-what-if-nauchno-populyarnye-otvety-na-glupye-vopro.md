@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/21-:slug/
 title:  "What-if научно-популярные ответы на глупые вопросы"
 date:   2013-12-13 07:47:31 +03:00
 featured: False

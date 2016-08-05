@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/8-:slug/
 title:  "Бага в релизе. Анализ"
 date:   2013-02-24 03:38:33 +03:00
 featured: False

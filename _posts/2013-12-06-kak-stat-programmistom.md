@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /blog/16-:slug/
 title:  "Как стать программистом"
 date:   2013-12-06 07:47:31 +03:00
 featured: False
