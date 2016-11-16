@@ -57,6 +57,7 @@ tags:
 * Регистрация: [обязательна](https://docs.google.com/forms/d/e/1FAIpQLSfJr4dJQ9cA-XcdlKWVIoWRqpv08L-G7u9jxgZQdkudK07L0g/viewform)
 
 Присоединяйтесь к сообществу: [https://www.facebook.com/groups/SolutionArchitectureGomel/](https://www.facebook.com/groups/SolutionArchitectureGomel/)
+
 Пишите нам: [ArchitectureGomel@gmail.com](mailto:ArchitectureGomel@gmail.com)
 
 P.S. Еще *Хинт*: Заезжать домой перед встречей, чтобы поесть, не обязательно. Мы обещаем чай и бутики.
