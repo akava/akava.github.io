@@ -3,7 +3,7 @@ layout: post
 permalink: /blog/12-:slug/
 title:  "Инструменты управления. Стратоплан, 30.11. Обзор"
 date:   2013-12-02 04:00:00 +03:00
-featured: True
+featured: False
 tags: 
 - name: stratoplan
   slug: stratoplan

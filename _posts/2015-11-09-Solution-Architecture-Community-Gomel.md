@@ -3,7 +3,7 @@ layout: post
 permalink: /blog/35-:slug/
 title:  "Solution Architecture Community Gomel"
 date:   2015-11-09 21:03:12 +03:00
-featured: False
+featured: True
 tags: 
 - name: architecture
   slug: architecture
