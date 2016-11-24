@@ -52,7 +52,7 @@ tags:
 
 * Дата: Четверг, 24 ноября, 2016
 * Время: 19.00 – 22.00
-* Место: Гомель, кафе «ФЛЭТ», ул. Советская, 124 (напротив гостиницы "Турист")
+* Место: Гомель, кафе «ФЛЭТ», ул.Головацкого 19, Отель "Надзея", 2-ой этаж, остановка "Турист". (возле гостиницы "Турист")
 * Регистрация: [обязательна](https://docs.google.com/forms/d/e/1FAIpQLSfJr4dJQ9cA-XcdlKWVIoWRqpv08L-G7u9jxgZQdkudK07L0g/viewform)
 
 Присоединяйтесь к сообществу: [https://www.facebook.com/groups/SolutionArchitectureGomel/](https://www.facebook.com/groups/SolutionArchitectureGomel/)
