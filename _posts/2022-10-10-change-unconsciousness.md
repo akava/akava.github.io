@@ -2,7 +2,7 @@
 layout: post
 permalink: /blog/38-:slug/
 title:  "Можно ли с помощью сознательного менять бессознательное?"
-date:   2022-09-01 20:44:06 +03:00
+date:   2022-10-10 07:14:06 +04:00
 featured: False
 tags: 
 - name: thoughts
