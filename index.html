@@ -4,6 +4,9 @@ layout: default
 
 <div>
 {% for post in site.posts %}
+	{% if post.unlisted %}
+		{% continue %}
+	{% endif %}
     <div class="entry">
         <h3>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
