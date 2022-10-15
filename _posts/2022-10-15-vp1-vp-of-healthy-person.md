@@ -23,7 +23,7 @@ tags:
 
 Небольшое отступление: Должность (в организации), Позиция (в проекте), Роль (так же в проекте) и title (как уровень квалификации сотрудника) – разные вещи. Пример: Андрей Ковалев, sr. solution architect по тайтлу, Head of Architecture, Java VS по должности, работает на проекте на позиции Delivery Manager (да, было и такое), но, в числе прочего, выполняет роль Business Analyst потому что эта практика на проекте хромает и ее нужно вытягивать. Конец отступления.
 
-Прежде чем начнем, я хочу сказать, что говорю про Vice President и Director тайтлах в крупных американских организациях. Википедия делает интересное замечание: "A **vice president**, also **director** in British English" ([wiki: Vice President](https://en.wikipedia.org/wiki/Vice_president)). Т.е. в британском английском Vice President == Director.  
+Прежде чем начнем, я хочу сказать, что говорю про Vice President и Director тайтлах в крупных американских организациях. Википедия делает [интересное замечание](https://en.wikipedia.org/wiki/Vice_president): "A **vice president**, also **director** in British English". Т.е. в британском английском Vice President == Director.  
 
 Еще интересно, что если разбираться в [тайтле Директор](https://en.wikipedia.org/wiki/Director_%28business%29), то оказывается, что директора – это C-level executives (executive directors).  Но "Large organizations may also have "assistant" or "deputy" directors. In this context, _Director_ commonly refers to the lowest level of executive in an organization, but many large companies use the title of _associate director_ more frequently."
 
