@@ -3,7 +3,7 @@ layout: post
 permalink: /blog/40-:slug/
 title:  "Вице-президент (VP) здорового человека"
 date:   2022-10-15 18:54:56 +04:00
-featured: True
+featured: False
 unlisted: True
 tags: 
 - name: Vice President
