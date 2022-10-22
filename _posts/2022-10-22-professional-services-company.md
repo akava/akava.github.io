@@ -24,10 +24,10 @@ tags:
 
 2) Продукты уровня развития: как создавать и растить такие capabilities (на стороне клиента). Тут все вокруг практик+методов.
 
-3) Продукты уровня разработки (система создания): команды, которые встраиваются в команды клиента, которые (команды клиента) создают IT систему, которая встраивается в систему создания Business продукта клиента, результатом которого является бизнес-продукт (например Страховка).
+3) Продукты уровня разработки (система создания): команды, которые встраиваются в команды клиента, которые (команды клиента) создают IT систему, которая встраивается в систему создания Business продукта клиента, результатом которого является бизнес-продукт (например Страховка). 
 
-На картинке ниже показано наше место в цепочках создания для продукта 3го уровня (Dev Team):
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2F88IJu41Ywy.png?alt=media&token=cda5b4de-a92e-4f98-bda4-c881740d4b8b){: width="500" }
+На картинке ниже показано наше место в цепочках создания для продукта 3го уровня (Dev Team):  <!--more-->
+[![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2F88IJu41Ywy.png?alt=media&token=cda5b4de-a92e-4f98-bda4-c881740d4b8b){: width="100%" }](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2F88IJu41Ywy.png?alt=media&token=cda5b4de-a92e-4f98-bda4-c881740d4b8b)
 
 Продукт второго уровня (Technology Consting Team) будет встроена в систему создания левея Dev Team.
 
