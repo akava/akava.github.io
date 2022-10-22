@@ -3,7 +3,7 @@ layout: post
 permalink: /blog/43-:slug/
 title:  "Компания предоставляющая Professional Services в IT как система"
 date:   2022-10-22 14:14:56 +04:00
-featured: True
+featured: False
 tags: 
 - name: system engineering
   slug: system_engineering
@@ -27,7 +27,7 @@ tags:
 3) Продукты уровня разработки (система создания): команды, которые встраиваются в команды клиента, которые (команды клиента) создают IT систему, которая встраивается в систему создания Business продукта клиента, результатом которого является бизнес-продукт (например Страховка).
 
 На картинке ниже показано наше место в цепочках создания для продукта 3го уровня (Dev Team):
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2F88IJu41Ywy.png?alt=media&token=cda5b4de-a92e-4f98-bda4-c881740d4b8b)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2F88IJu41Ywy.png?alt=media&token=cda5b4de-a92e-4f98-bda4-c881740d4b8b){: width="500" }
 
 Продукт второго уровня (Technology Consting Team) будет встроена в систему создания левея Dev Team.
 
