@@ -1,3 +1,4 @@
+---
 layout: post
 permalink: /blog/44-:slug/
 title:  "Цепочки создания и польза от Study Group"
