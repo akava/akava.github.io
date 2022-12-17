@@ -2,7 +2,7 @@
 layout: post
 permalink: /blog/47-:slug/
 title:  "Сложности при выборе целевой системы"
-date:   2022-11-16 17:14:00 +04:00
+date:   2022-12-17 17:54:00 +04:00
 featured: False
 tags: 
 - name: system engineering
