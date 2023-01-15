@@ -55,7 +55,7 @@ tags:
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2FxuHNIla-X3.png?alt=media&token=2c2ee095-5602-4d4b-87c5-749dde89bfc3){: width="100%" }
 
-Чем лучше того же интегромата?
+### Чем лучше того же интегромата?
 
 - Во-первых опенсорс и имеет community лицензию на self-hosted ноды, т.е все крутиться у меня локально, а платформа не пропадет и не превратиться во что-то другое (как Integromat -> Make).
 
