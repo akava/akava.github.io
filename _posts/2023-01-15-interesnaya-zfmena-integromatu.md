@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /blog/48-:slug/
-title:  "Нашел очень интересную замену Integromat:  https://n8n.io/s"
+title:  "Нашел очень интересную замену Integromat:  https://n8n.io/"
 date:   2023-01-15 11:03:00 +04:00
 featured: False
 tags: 
@@ -11,8 +11,7 @@ tags:
   slug: low_code
 ---
 
-Давно искал low-code решение для "домашней" автоматизации, что-то похожее на Integromat: автоматизация от которой не тошнит как от IFTTT, но не такое жадное до денег,
- из-за чего приходится считать количество шагов в процессе и количество обработанных данных, что нивелирует всю пользу от него.  
+Давно искал low-code решение для "домашней" автоматизации, что-то похожее на Integromat: автоматизация от которой не тошнит как от IFTTT, но не такое жадное до денег, из-за чего приходится считать количество шагов в процессе и количество обработанных данных, что нивелирует всю пользу от него.  
 
 Мне вообще нужно что-то похожее на AWS lambda+step functions для дома, а не для работы. Чтобы был low-code с минимумом обслуживания: как создания, так и конфигурации и поддержкой, и возможность сделать дашборд, чтобы смотреть что не так. Т.е. минимум гемороя (и программирования) и максимум пользы. 
 
@@ -52,13 +51,13 @@ tags:
 
 Несколько скриншотов с сайта разработчика:
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2Fk2M4-zea0X.png?alt=media&token=68d2f892-af7f-4cec-b3f2-5bce9612d9fb)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2Fk2M4-zea0X.png?alt=media&token=68d2f892-af7f-4cec-b3f2-5bce9612d9fb){: width="100%" }
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2FxuHNIla-X3.png?alt=media&token=2c2ee095-5602-4d4b-87c5-749dde89bfc3)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndrei_Knowledge_Base%2FxuHNIla-X3.png?alt=media&token=2c2ee095-5602-4d4b-87c5-749dde89bfc3){: width="100%" }
 
 Чем лучше того же интегромата?
 
-- Во-первых опенсорс и имеет community лицензию на self-hosted ноды.
+- Во-первых опенсорс и имеет community лицензию на self-hosted ноды, т.е все крутиться у меня локально, а платформа не пропадет и не превратиться во что-то другое (как Integromat -> Make).
 
 - Во-вторых умеет в [git-ops через cli](https://docs.n8n.io/reference/cli-commands/). Т.е. можно настроить хранение конфигурации в гите, а не "на сервере дяди" и восстановить все в случае чего.
 
@@ -67,3 +66,5 @@ tags:
 Переведу своих телеграмм ботов на него – посмотрю как это все будет работать. Может даже ChatGPT переведу в телеграмм, openai API куплен уже давно. 
 
 Stay tuned!
+
+Обсуждение: https://t.me/akava_t/256
