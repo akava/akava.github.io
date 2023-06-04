@@ -3,7 +3,7 @@ layout: post
 permalink: /blog/19-:slug/
 title:  "Предложение о сотрудничестве"
 date:   2013-12-09 07:47:31 +03:00
-featured: True
+featured: False
 tags: 
 - name: stratoplan
   slug: stratoplan
