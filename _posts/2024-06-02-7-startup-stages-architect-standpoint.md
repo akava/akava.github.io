@@ -14,8 +14,7 @@ tags:
 
 Грамотная [статья](https://www.latitud.com/blog/stages-of-a-startup), классифицирующая стадии жизненного цикла компании. Начиная с идеи (основание стартапа) до поиска Product-Market-Fit (через MVP и поиск инвестора для экспериментов), далее идет выход на рынок и рост (growth/scale), после чего идет этап зрелости и оптимизации (Maturity). 
 
-<img src="\img\posts\50-7startup-stages\50-7startup-stages.png">
-
+<img src="\img\posts\50-7-startup-stages/7-startup-stages.png">
 
 Сразу же захотелось наложить эту классификацию на модель из [Digital Practitioner](https://www.opengroup.org/dpbok). Уж очень стадии близки и ровно ложатся друг на друга: Team of teams – однозначно стадия роста, Enterprise –  стадия зрелости и оптимизации.
 
