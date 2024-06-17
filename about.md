@@ -4,11 +4,13 @@ title: About me
 permalink: /about/
 ---
 
+![me](/img/Andrei_Kavaleu.jpg){:style="float: right"}
+
 Все что ниже – безнадежно устарело. Тексту более 10 лет. Все поменялось кардинально :)
 
 [https://www.linkedin.com/in/andrei-kavaleu/](https://www.linkedin.com/in/andrei-kavaleu/)
 
-![me](/img/Andrei_Kavaleu.jpg){:style="float: right"}
+
 
 Привет, меня зовут Андрей Ковалев. Я разработчик программного обеспечения из Беларуси. 9 лет профессионально занимаюсь программированием. Последние 7 лет преимущественно работаю на иностранных заказчиков. Основной платформой разработки до недавнего времени был .Net, но за всю свою карьеру я писал и на Java, и на Python, и на Ruby, и на PHP, и даже на Adobe Flex с ColdFusion.
 
